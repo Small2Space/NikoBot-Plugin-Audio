@@ -1,0 +1,9 @@
+com.github.smallru8.plugins.audio.Audio
+Audio Help:
+    /play <URL> : Add a url to playing queue.
+    /skip : Next.
+    /d : Disconnect.
+    /stop : Stop this track.
+    /pause : Pause this track.
+    /play : Continue playing.
+    /r : Repeat play on|off.
